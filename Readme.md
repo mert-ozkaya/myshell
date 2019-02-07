@@ -1,10 +1,3 @@
--İşletim Sistemleri Dersi Proje Ödevi-
-
-
-B161210029 Mert ÖZKAYA
-B161210026 Semih DEMİRCİ
-B161210035 Alperen ÇİNKAYA
-
 
 KOMUTLAR:
 
